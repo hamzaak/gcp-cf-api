@@ -1,13 +1,13 @@
 {
-  "name": "cf-users",
+  "name": "cf-api",
   "version": "1.0.0",
-  "description": "tutorial on creating a GCP cloud function express app",
+  "description": "GCP Cloud Functions Tutorial",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Hamza Ak",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.16.4"
   }
